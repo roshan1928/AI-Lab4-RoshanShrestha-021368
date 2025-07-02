@@ -17,7 +17,14 @@
 - **File**: `perceptron_n_features.py`
 
 ---
+## 📦 Requirements
 
+- Python 3.6+
+- NumPy
+- Matplotlib
+- scikit-learn (for PCA in Task 2 of K-Means)
+
+### Install Requirements:
 ```bash
 pip install numpy matplotlib scikit-learn
 python perceptron_3_features.py
